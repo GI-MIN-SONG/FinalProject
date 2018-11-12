@@ -1,0 +1,3 @@
+NewFile_02.txt
+
+Hello~ Git~!
